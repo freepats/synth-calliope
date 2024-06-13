@@ -1,0 +1,90 @@
+//+ Name: Synth Lead Calliope
+//+ Date: 2020-05-12
+//+ URL: http://freepats.zenvoid.org/Synthesizer/synth-lead.html#SynthCalliope
+
+<global>
+ //+ Instrument: Synth Calliope
+ ampeg_release=0.4
+
+<group>
+ loop_mode=loop_continuous
+<region>
+ lokey=33 hikey=37
+ pitch_keycenter=36
+ loop_start=119232 loop_end=479931
+ sample=samples/C2.flac
+<region>
+ lokey=38 hikey=41
+ pitch_keycenter=40
+ loop_start=90074 loop_end=375302
+ sample=samples/E2.flac
+<region>
+ lokey=42 hikey=45
+ pitch_keycenter=44
+ loop_start=73439 loop_end=425977
+ sample=samples/G#2.flac
+<region>
+ lokey=46 hikey=49
+ pitch_keycenter=48
+ loop_start=85314 loop_end=264326
+ sample=samples/C3.flac
+<region>
+ lokey=50 hikey=53
+ pitch_keycenter=52
+ loop_start=98387 loop_end=242612
+ sample=samples/E3.flac
+<region>
+ lokey=54 hikey=57
+ pitch_keycenter=56
+ loop_start=125317 loop_end=284171
+ sample=samples/G#3.flac
+<region>
+ lokey=58 hikey=61
+ pitch_keycenter=60
+ loop_start=100560 loop_end=279575
+ sample=samples/C4.flac
+<region>
+ lokey=62 hikey=65
+ pitch_keycenter=64
+ loop_start=103977 loop_end=246727
+ sample=samples/E4.flac
+<region>
+ lokey=66 hikey=69
+ pitch_keycenter=68
+ loop_start=101844 loop_end=356799
+ sample=samples/G#4.flac
+<region>
+ lokey=70 hikey=73
+ pitch_keycenter=72
+ loop_start=107508 loop_end=286940
+ sample=samples/C5.flac
+<region>
+ lokey=74 hikey=77
+ pitch_keycenter=76
+ loop_start=109832 loop_end=253853
+ sample=samples/E5.flac
+<region>
+ lokey=78 hikey=81
+ pitch_keycenter=80
+ loop_start=102646 loop_end=230123
+ sample=samples/G#5.flac
+<region>
+ lokey=82 hikey=85
+ pitch_keycenter=84
+ loop_start=108963 loop_end=210437
+ sample=samples/C6.flac
+<region>
+ lokey=86 hikey=89
+ pitch_keycenter=88
+ loop_start=102363 loop_end=182903
+ sample=samples/E6.flac
+<region>
+ lokey=90 hikey=93
+ pitch_keycenter=92
+ loop_start=71449 loop_end=199112
+ sample=samples/G#6.flac
+<region>
+ lokey=94 hikey=98
+ pitch_keycenter=96
+ loop_start=85887 loop_end=187130
+ sample=samples/C7.flac
